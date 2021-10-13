@@ -1,0 +1,26 @@
+body{
+    margin: 0px;
+}
+.section1{
+    background-color: rgb(46, 46, 46);
+}
+
+.header{
+    display: flex;
+    justify-content: space-between;
+}
+
+ul{
+    padding: 50px; 
+}
+li{
+    display: inline;
+    text-decoration: none;
+    list-style: none;
+    text-align: center;
+    padding-right: 30px;
+    color: white;
+}
+h1{
+    text-align: center;
+}
